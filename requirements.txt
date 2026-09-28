@@ -1,0 +1,2 @@
+emay-sleepo2==1.0.6  # spo2_alarm.py 依赖它的内部实现（client.parse_reading、_client、_write_char），升级前先验证
+bleak

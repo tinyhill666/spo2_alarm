@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# 个人信息，不提交
+CLAUDE.local.md
+config.local.ini
